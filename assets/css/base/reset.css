@@ -1,0 +1,21 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+  
+a {
+    color: var(--grey);
+    text-decoration: none!important;
+}
+  
+a:hover {
+    color: var(--grey);
+    text-decoration: none!important;
+}
+
+@media screen and (max-width: 768px) {
+    [data-aos-delay] {
+      transition-delay: 0 !important;
+    }
+}
+  

@@ -1,0 +1,17 @@
+.text-primary {
+    --bs-text-opacity: 1!important;
+    color: var(--blue)!important;
+}
+  
+.text-black {
+    --bs-text-opacity: 1!important;
+    color: var(--black)!important;
+}
+
+.bg-cst-dark {
+  background: var(--blue)!important;
+}
+
+.bg-purple {
+  background-color: #33364a!important;
+}

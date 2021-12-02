@@ -1,0 +1,45 @@
+/**
+* Template Name: Paint It Right - v1.0.0
+* Template URL: https://github.com/Biadedigital/PaintItRight.git
+* Author: https://biadedigital.com/ ~ George
+* License: GPLv2
+*/
+
+/* Main.css */
+
+/* vendors */
+@import './vendors/bootstrap/css/bootstrap.min.css';
+@import './vendors/animate-styles/animate.min.css';
+@import './vendors/aos/aos.css';
+@import './vendors/bootstrap-icons/bootstrap-icons.css';
+@import './vendors/boxicons/css/boxicons.min.css';
+@import './vendors/glightbox/css/glightbox.min.css';
+@import './vendors/remixicon/remixicon.css';
+@import './vendors/swiper/swiper-bundle.min.css';
+
+/* base */
+@import './base/reset.css';
+@import './base/typography.css';
+
+/* layout */
+@import './layout/navbar.css';
+@import './layout/scrollbar.css';
+@import './layout/scrollup.css';
+
+
+/* components */
+@import './components/button.css';
+
+/* section */
+@import './section/hero.css';
+@import './section/general.css';
+@import './section/features.css';
+@import './section/about.css';
+@import './section/services.css';
+@import './section/contact.css';
+@import './section/testimonial.css';
+@import './section/footer.css';
+
+/* utils */
+@import './utils/utilities.css';
+@import './utils/variables.css';
